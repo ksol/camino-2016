@@ -1,0 +1,23 @@
+# Site settings
+title: 50 Days of Camino
+subtitle: Kevin Soltysiak's travel log of the way of St. James, the "Camino de Santiago"
+email: camino2016@ksol.fr
+description: ""
+baseurl: ""
+url: "http://www.ksol.fr"
+twitter_username: "ksol"
+github_username:  "ksol"
+instagram_username: "ksol"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+gems: [jekyll-paginate, jekyll-feed]
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
