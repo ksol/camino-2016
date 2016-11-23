@@ -6,6 +6,21 @@ layout: default
 {% for post in paginator.posts reversed %}
     <div class="post-header">
       <a href="{{ site.baseurl }}{{ post.url }}"><h3 class="post-header-title-listing">{{forloop.index}} - {{ post.title }}</h3></a>
+      {% if post.from or post.to %}
+        <h4 class="post-header-date">
+          {% if post.from %}
+            <span class="ordinal">{{ post.from | date: "%e" }}</span> {{ post.from | date: "%B" }}
+          {% endif %}
+
+          {% if post.from and post.to %}
+            —
+          {% endif %}
+
+          {% if post.to %}
+            <span class="ordinal">{{ post.to | date: "%e" }}</span> {{ post.to | date: "%B" }}
+          {% endif %}
+        </h4>
+      {% endif %}
     </div>
 {% endfor %}
 
