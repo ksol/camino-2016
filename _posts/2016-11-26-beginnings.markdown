@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toulouse ~ Haute Garonne"
-date:   2016-11-23 16:00:00
+date:   2016-11-26 16:00:00
 from:   2016-09-22
 to:     2016-09-25
 ---
@@ -30,3 +30,8 @@ But we pushed through and walked some more to find a nice spot to plant our tent
 The spot was quite nice, but we arrived there quite late (around 19h), so I didn't think about taking pictures. I remember being quite happy because my phone told me that we walked 47Kms... Which cannot possibly be true, looking at the map. Best case, we did between 35 and 40, which might have been too much for a first day. Here is a recap of the route we took:
 
 {% include plot.html id="322616" %}
+
+<h1> Day 2 </h1>
+<h2> 23/09 — Lac de la Bordette — Monferran-Savès</h2>
+
+_Writing in progress..._
