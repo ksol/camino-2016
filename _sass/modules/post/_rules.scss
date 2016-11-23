@@ -5,6 +5,24 @@
     }
 
     .post-body, .post-body-listing {
+        h1 {
+          font-family: $regular-font;
+          font-size: 30px;
+          font-weight: normal;
+          text-align: center;
+
+          &:before {
+            content: '~ '
+          }
+          &:after {
+            content: ' ~'
+          }
+        }
+
+        h2 {
+          text-align: center;
+        }
+
         p {
           font-stretch: normal;
           font-style: normal;
@@ -143,7 +161,7 @@
     .post-image-caption-left,
     .post-image-caption-right {
         display: inline-block;
-        width: calc(50% - 1.5px);
+        width: calc(50% - 3px);
     }
 
     .post-image-caption-left {
