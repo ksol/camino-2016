@@ -4,7 +4,20 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts reversed %}
-  {% include post.html post=post content=post.content %}
+  <section class="post">
+    <div class="post-header">
+      <a href="{{ site.baseurl }}{{ post.url }}"><h3 class="post-header-title-listing">{{ post.title }}</h3></a>
+      <h4 class="post-header-date"><span class="ordinal">{{ post.date | date: "%e" }}</span> {{ post.date | date: "%B &#8217;%y" }}</h4>
+    </div>
+    <div class="post-body-listing">
+      {{ post.excerpt }}
+    </div>
+    <div class="post-footer">
+      <a href="{{ site.baseurl }}{{ post.url }}"class="post-footer-more">
+        Read more
+      </a>
+    </div>
+  </section>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

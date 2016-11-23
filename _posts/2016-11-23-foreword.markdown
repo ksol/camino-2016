@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Foreword ~ Buen Camino"
-date:   2016-11-23 12:00:00
+layout:   post
+title:    "Foreword ~ Buen Camino"
+date:     2016-11-23 12:00:00
+comments: true
 ---
 
 Hello, reader. What you're about to read is an account of my walking of "The Way" of St. James, or as we modern days pilgrims like to call it, **the camino**.
@@ -10,6 +11,8 @@ I'm not sure how I got the idea of walking this ancient path in the first place.
 
 So here I was, my mind made up on starting around Toulouse so that I'd have at least 10 days of walking before going through the Pyrenees. I started talking about this project with a few friends, and a few of them proposed to join me, but only one of them could actually take the time to do it, and I consider myself lucky to have this guy with me since he handled all the aspects I overlooked: finding routes, maps, searching for hosting regulations and facilities... Pretty much everything, yep. If I had gone on my own, I would have started walking from Toulouse and only after a few hours walks it would have crossed my mind to do some research... and then I would probably have quit.
 
-Anyway. We started walking from Toulouse on the 22nd of September. The three weeks before were used to make some research, getting our gear, going through a 3-days hike in [the vosges] in order to test our gear as well as ourselves. The following posts will be half travel guide, half travel log, being an account of what I did and all that, but you'll also find a few useful informations, such as the routes that were walked, information about our accomodations, etc.
+Anyway. We started walking from Toulouse on the 22nd of September. The three weeks before were used to make some research, refining our route, getting our gear, going through a 3-days hike in the vosges in order to test our gear as well as ourselves. The following posts will be half travel guide, half travel log, being an account of what I did and all that, but you'll also find a few useful informations, such as the routes that were walked, information about our accomodations, etc.
 
-Also, i'm writing these words from the comfort of home - well, the comfort of a bar, actually - and two weeks after finishing my walk. I'm helped by my notes, pictures, receipts, stamps, facebook posts, but also my own memories, and as we all know, memories can be full of tricks and deception. So there may be a few inconsistencies here and there, but I hope I can trust myself enough not to lie blatantly about what happened :)
+Also, i'm writing these words from the comfort of home - well, the comfort of a bar, actually - and two weeks after finishing my walk. I'm helped by my notes, pictures, receipts, stamps, facebook posts, but also my own memories, and as we all know, memories tend to not be as reliable as we'd like them to be. So there may be a few inconsistencies here and there, and hopefully nothing too important!
+
+There will be a comments section under each post. Please, feel free to leave you comments, ask your questions, share your stories there. You can also contact me at [camino2016@ksol.fr](mailto:camino2016@ksol.fr) or on [twitter](https://twitter.com/@ksol).

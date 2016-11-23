@@ -1,5 +1,5 @@
 <section class="post">
-    <div class="post-header post-header--dw">
+    <div class="post-header post-header-center">
         <a href="{{ site.baseurl }}{{ include.post.url }}"><h3 class="post-header-title">{{ include.post.title }}</h3></a>
         <h4 class="post-header-date"><span class="ordinal">{{ include.post.date | date: "%e" }}</span> {{ include.post.date | date: "%B &#8217;%y" }}</h4>
     </div>
@@ -13,22 +13,20 @@
             {% endfor %}
         </ul>
 
+        {% if include.post.plotaroute %}
+          <a href="https://www.plotaroute.com/route/{{include.post.plotaroute}}" target="_blank" class="post-footer-location">
+            {% if include.post.start %}
+              {{ include.post.start }}
+            {% endif %}
 
-        <a href="https://www.plotaroute.com/route/{{include.post.plotaroute}}" target="_blank" class="post-footer-location">
-          {% if include.post.start %}
-            {{ include.post.start }}
-          {% endif %}
+            {% if include.post.start and include.post.finish %}
+              ->
+            {% endif %}
 
-          {% if include.post.start and include.post.finish %}
-            ->
-          {% endif %}
-
-          {% if include.post.finish %}
-            {{ include.post.finish }}
-          {% endif %}
-        </a>
-
-
-
+            {% if include.post.finish %}
+              {{ include.post.finish }}
+            {% endif %}
+          </a>
+        {% endif %}
     </div>
 </section>

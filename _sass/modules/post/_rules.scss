@@ -4,21 +4,29 @@
         margin-bottom: 40px;
     }
 
-    .post-body {
+    .post-body, .post-body-listing {
         p {
-          font-size: 20px;
           font-stretch: normal;
           font-style: normal;
           font-variant-caps: normal;
           font-variant-ligatures: normal;
           font-variant-numeric: normal;
           font-weight: normal;
-          line-height: 37px;
         }
     }
 
+    .post-body p {
+      font-size: 20px;
+      line-height: 37px;
+    }
+
+    .post-body-listing p {
+      font-family: $listing-font;
+      font-size: 14px;
+      line-height: 18px;
+    }
+
     .post-header {
-        padding-left: 35px;
         min-height: $post-header-height;
         background-repeat: no-repeat;
         background-position: left center;
@@ -26,47 +34,13 @@
         margin-bottom: 15px;
     }
 
-    .post-header--dw,
-    .post-header--ar {
-        background-size: 24px;
+    .post-header-center {
+      text-align: center;
     }
 
-    .post-header--dw {
-        // Non-retina device
-        background-image: url($watch-1);
-
-        // Retina @2x device
-        @media only screen and (-webkit-min-device-pixel-ratio: 1.2), only screen and (min--moz-device-pixel-ratio: 1.2), only screen and (-o-min-device-pixel-ratio: 5/4), only screen and (min-device-pixel-ratio: 1.2), only screen and (min-resolution: 120dpi), only screen and (min-resolution: 1.2dppx) {
-            background-image: url($watch-1-2x);
-            background-size: 25px;
-        }
-
-        // Retina @3x device
-        @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3/1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
-            background-image: url($watch-1-3x);
-            background-size: 25px;
-        }
-    }
-
-    .post-header--ar {
-         // Non-retina device
-        background-image: url($watch-2);
-
-        // Retina @2x device
-        @media only screen and (-webkit-min-device-pixel-ratio: 1.2), only screen and (min--moz-device-pixel-ratio: 1.2), only screen and (-o-min-device-pixel-ratio: 5/4), only screen and (min-device-pixel-ratio: 1.2), only screen and (min-resolution: 120dpi), only screen and (min-resolution: 1.2dppx) {
-            background-image: url($watch-2-2x);
-        }
-
-        // Retina @3x device
-        @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3/1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
-            background-image: url($watch-2-3x);
-        }
-    }
-
-    .post-header-title {
+    .post-header-title, .post-header-title-listing {
         margin-bottom: 5px;
-        font-family: $title-font;
-        font-size: 18px;
+
         font-weight: 500;
         text-transform: uppercase;
         letter-spacing: 1px;
@@ -76,6 +50,16 @@
 
         // However let the normal hover colour apply
         &:hover { color: $link-colour-over; }
+    }
+
+    .post-header-title {
+      font-family: $regular-font;
+      font-size: 40px;
+    }
+
+    .post-header-title-listing {
+      font-family: $title-font;
+      font-size: 18px;
     }
 
     .post-header-date {
@@ -203,7 +187,7 @@
     }
 
     .post-footer {
-        margin-top: 35px;
+        margin-top: 15px;
         padding-bottom: 15px;
         border-bottom: 1px solid $border-colour;
 
@@ -231,16 +215,19 @@
         letter-spacing: 1px;
     }
 
-    .post-footer-location {
+    .post-footer-location, .post-footer-more {
         font-family: $title-font;
         font-weight: bold;
         font-size: $caption-text-size;
         color: $caption-colour;
-        float: right;
         min-height: $post-footer-location-height;
         line-height: $post-footer-location-line-height;
         padding-right: 51px;
         letter-spacing: 1px;
+    }
+
+    .post-footer-location {
+        float: right;
         background-repeat: no-repeat;
         background-position: right center;
         background-color: transparent;
