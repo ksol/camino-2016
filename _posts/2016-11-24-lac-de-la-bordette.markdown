@@ -1,13 +1,10 @@
 ---
-layout: post
-title:  "Toulouse ~ Haute Garonne"
-date:   2016-11-26 16:00:00
-from:   2016-09-22
-to:     2016-09-25
+layout:   post
+title:    "Toulouse — Lac de la Bordette"
+category: toulouse-haute-garonne
+date:     2016-09-22
+day:      1
 ---
-
-<h1> Day 1 </h1>
-<h2> 22/09 — Toulouse — Lac de la Bordette </h2>
 
 After two days spent in [Paris](https://www.google.fr/maps/place/Paris/@48.8589507,2.2775172,12z/data=!3m1!4b1!4m5!3m4!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!8m2!3d48.856614!4d2.3522219?hl=fr) and one day in [Toulouse](https://www.google.fr/maps/place/Toulouse/@43.6008029,1.3628011,12z/data=!3m1!4b1!4m5!3m4!1s0x12aebb6fec7552ff:0x406f69c2f411030!8m2!3d43.604652!4d1.444209?hl=fr), it was finally time to start the actual walk. My notes for the first week are very brief, so I have to rely on my memory for this section, and we're talking about events that happend two months ago. Still, I remember a few things about the first day. Mostly, the neverending suburbs. Loïc and I were very excited and restless to start our hike, but after two hours spent walking in [Toulouse](https://www.google.fr/maps/place/Toulouse/@43.6008029,1.3628011,12z/data=!3m1!4b1!4m5!3m4!1s0x12aebb6fec7552ff:0x406f69c2f411030!8m2!3d43.604652!4d1.444209?hl=fr) and its surrounding cities, the excitation was mostly gone.
 
@@ -30,8 +27,3 @@ But we pushed through and walked some more to find a nice spot to plant our tent
 The spot was quite nice, but we arrived there quite late (around 19h), so I didn't think about taking pictures. I remember being quite happy because my phone told me that we walked 47Kms... Which cannot possibly be true, looking at the map. Best case, we did between 35 and 40, which might have been too much for a first day. Here is a recap of the route we took:
 
 {% include plot.html id="322616" %}
-
-<h1> Day 2 </h1>
-<h2> 23/09 — Lac de la Bordette — Monferran-Savès</h2>
-
-_Writing in progress..._
