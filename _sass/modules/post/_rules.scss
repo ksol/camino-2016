@@ -148,7 +148,7 @@
         }
     }
 
-    .post-image-caption {
+    .post-image-caption, .post-previous, .post-next {
         line-height: 18px;
         vertical-align: middle;
         font-size: 14px;
@@ -167,6 +167,19 @@
         p + p { margin-top: 15px; }
     }
 
+
+    .post-previous, .post-next {
+      width: calc(50% - 3px);
+    }
+
+    .post-previous { float: left; }
+    .post-next { float: right; }
+
+    .post-image-caption-left,
+    .post-image-caption-right {
+        display: inline-block;
+        width: calc(50% - 3px);
+    }
     .post-image-caption-left,
     .post-image-caption-right {
         display: inline-block;
