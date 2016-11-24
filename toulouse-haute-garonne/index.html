@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% assign chapter = site.data.chapters[1] %}
+{% assign posts = site.posts | where:"category",chapter.slug %}
+
+<section class="post">
+  <div class="post-header post-header-center">
+    <h1 class="post-header-title">{{ chapter.name }}</h1>
+  </div>
+  <hr>
+</section>
+
+{% for post in posts reversed %}
+  {% include post.html post=post content=post.content %}
+{% endfor %}

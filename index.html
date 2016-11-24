@@ -4,7 +4,7 @@ layout: default
 
 {% for chapter in site.data.chapters %}
   <div class="post-header">
-    <a href="#">
+    <a href="/{{chapter.slug}}/">
       <h3 class="collection-title-listing">
         {{forloop.index0}} - {{chapter.name}}
       </h3>
