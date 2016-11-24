@@ -56,7 +56,7 @@
       text-align: center;
     }
 
-    .post-header-title, .post-header-title-listing {
+    .collection-title-listing, .post-header-title, .post-header-title-listing {
         margin-bottom: 5px;
 
         font-weight: 500;
@@ -75,10 +75,19 @@
       font-size: 40px;
     }
 
-    .post-header-title-listing {
+    .collection-title-listing, .post-header-title-listing {
       font-family: $title-font;
+    }
+
+    .collection-title-listing {
       font-size: 18px;
     }
+
+    .post-header-title-listing {
+      font-size: 14px;
+      margin-left: 31px;
+    }
+
 
     .post-header-date {
         font-family: $caption-font;

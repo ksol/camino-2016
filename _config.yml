@@ -11,8 +11,8 @@ instagram_username: "ksol"
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
-
+permalink: /:categories/:title/
+future: true
 gems: [jekyll-paginate, jekyll-feed]
 
 # Pagination

@@ -79,6 +79,15 @@ h2 {
     font-weight: normal;
 }
 
+h5 {
+    font-family: $subtitle-font;
+    font-size: 18px;
+    margin: 0;
+    color: $subtitle-colour;
+    font-weight: normal;
+    text-align: center;
+}
+
 footer {
     background-size: cover;
     height: $footer-height;

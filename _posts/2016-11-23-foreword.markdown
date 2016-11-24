@@ -1,8 +1,10 @@
 ---
 layout:   post
-title:    "Foreword ~ Buen Camino"
+title:    "Foreword"
 date:     2016-11-23 12:00:00
+showdate: false
 comments: true
+category: buen-camino
 ---
 
 Hello, reader. What you're about to read is an account of my walking of "The Way" of St. James, or as we modern days pilgrims like to call it, **the camino**.

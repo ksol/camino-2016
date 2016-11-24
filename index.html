@@ -2,8 +2,40 @@
 layout: default
 ---
 
+{% for chapter in site.data.chapters %}
+  <div class="post-header">
+    <a href="#">
+      <h3 class="collection-title-listing">
+        {{forloop.index0}} - {{chapter.name}}
+      </h3>
+    </a>
+
+    {% assign posts = site.posts | where:"category",chapter.slug %}
+
+    {% for post in posts reversed %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h4 class="post-header-title-listing">
+          {% if post.showdate != false %}
+            {% if post.date %}
+              {{ post.date | date: "%d/%m" }} —
+            {% endif %}
+          {% endif %}
+
+          {{ post.title }}
+        </h4>
+      </a>
+    {% endfor %}
+  </div>
+<!--
+  {% assign posts = site.posts | where:"chapter",chapter.slug %}
+
+  {% for post in posts %}
+    <a href="{{ site.baseurl }}{{ post.url }}"><h3 class="post-header-title-listing">{{ post.title }}</h3></a>
+  {% endfor %} -->
+{% endfor %}
+
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts reversed %}
+<!-- {% for post in paginator.posts reversed %}
     <div class="post-header">
       <a href="{{ site.baseurl }}{{ post.url }}"><h3 class="post-header-title-listing">{{forloop.index}} - {{ post.title }}</h3></a>
       {% if post.from or post.to %}
@@ -22,7 +54,7 @@ layout: default
         </h4>
       {% endif %}
     </div>
-{% endfor %}
+{% endfor %} -->
 
 {% if paginator.total_pages > 1 %}
 <ul class="pagination">
