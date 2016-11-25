@@ -1,5 +1,9 @@
 @import "modules/post/variables";
 @mixin travelog-post {
+    .disqus-comments {
+      margin-bottom: 30px;
+    }
+
     .post {
         margin-bottom: 40px;
     }
