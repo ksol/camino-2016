@@ -2,8 +2,9 @@
 layout: default
 ---
 
-{% assign chapter = site.data.chapters[0] %}
-{% assign next = site.data.chapters[1] %}
+{% assign chapter = site.data.chapters[2] %}
+{% assign previous = site.data.chapters[1] %}
+{% assign next = site.data.chapters[3] %}
 {% assign posts = site.posts | where:"category",chapter.slug %}
 
 <section class="post">

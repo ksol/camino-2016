@@ -1,0 +1,15 @@
+---
+layout:   post
+title:    "Lussan — Auch"
+category: auch-gers
+date:     2016-09-25
+day:      4
+---
+
+The next day was our first short day. We took a quick breakfast at Guy's, and he dropped us back on the GR653, near a place called Roquetaillade. The sky was gray and cloudy, and when we reached [Auch](https://www.google.fr/maps/place/32000+Auch/@43.6626553,0.4965211,12z/data=!3m1!4b1!4m5!3m4!1s0x12a982b9687c606f:0x23818fc53ae6d13e!8m2!3d43.64638!4d0.586709?hl=fr), Loïc started to feel some pain in his leg and then it started to rain. So we decided to stop there for the day and to take a longer break than usual.
+
+For the second night in a row, we didn't plant the tent: the church ran a pilgrim's hostel, donation-based (usually called a _donativo_), and that's where we stayed and met our first pilgrims, Daniel and Françoise. They had started in [Arles](https://www.google.fr/maps/place/Arles/@43.5447242,4.3710841,10z/data=!3m1!4b1!4m5!3m4!1s0x12b672075d4814cd:0x40819a5fd970550!8m2!3d43.676647!4d4.6277769?hl=fr) at the beginning of september and planned on stopping before the spanish border, at [Oloron Sainte Marie](https://www.google.fr/maps/place/64400+Oloron-Sainte-Marie/@43.1679993,-0.665391,12z/data=!3m1!4b1!4m5!3m4!1s0xd57aaacee6c8db9:0x406651748139610!8m2!3d43.194413!4d-0.605292?hl=fr).
+
+{% include pic.html path="04/auch" caption="View of Auch" %}
+
+During the rest of the day, we walked around the city a bit once the rain had stop, took coffees here and there and rested, most of all. We really needed it.

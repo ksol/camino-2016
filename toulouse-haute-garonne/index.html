@@ -3,6 +3,8 @@ layout: default
 ---
 
 {% assign chapter = site.data.chapters[1] %}
+{% assign previous = site.data.chapters[0] %}
+{% assign next = site.data.chapters[2] %}
 {% assign posts = site.posts | where:"category",chapter.slug %}
 
 <section class="post">
@@ -15,3 +17,21 @@ layout: default
 {% for post in posts reversed %}
   {% include post.html post=post content=post.content %}
 {% endfor %}
+
+<div class="post-footer">
+  {% if previous %}
+    <p class="post-previous">
+      <a href="/{{ previous.slug | prepend: site.baseurl | replace: '//', '/' }}">
+        Previously: {{previous.name}}
+      </a>
+    </p>
+  {% endif %}
+
+  {% if next %}
+    <p class="post-next">
+      <a href="/{{ next.slug | prepend: site.baseurl | replace: '//', '/' }}">
+        Next: {{next.name}}
+      </a>
+    </p>
+  {% endif %}
+</div>

@@ -3,3 +3,9 @@
 
 - name: Toulouse ~ Haute Garonne
   slug: toulouse-haute-garonne
+
+- name: Auch ~ Gers
+  slug: auch-gers
+
+- name: Pau ~ Pyrénées Atlantiques
+  slug: pau-pyrenees-atlantiques
