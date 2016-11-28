@@ -9,12 +9,12 @@
 
 - name: Pau ~ Pyrénées Atlantiques
   slug: pau-pyrenees-atlantiques
-#
-# - name: Pyrénées
-#   slug: pyrenees
-#
-# - name: Camino Aragones
-#   slug: camino-aragones
+
+- name: Pyrénées
+  slug: pyrenees
+
+- name: Camino Aragones
+  slug: camino-aragones
 #
 # - name: Pamplona ~ Navarra
 #   slug: pamplona-navarra
