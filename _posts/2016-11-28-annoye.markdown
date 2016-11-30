@@ -6,8 +6,12 @@ date:     2016-09-29
 day:      8
 ---
 
-We left Maubourguet around 9h, right after breakfast and coffee. There isn't much to say for this entry, I have no memoeries of that day and my notes are very scarce: "Nice walk, but nothing interesting happened".
+We left [Maubourguet](https://www.google.fr/maps/place/65700+Maubourguet/@43.4694984,0.0037145,13z/data=!3m1!4b1!4m5!3m4!1s0x12a9de336051b9d9:0x406f69c2f3d7b10!8m2!3d43.4684627!4d0.0354481?hl=fr) around 9h, right after breakfast and coffee. There isn't much to say for this entry, I have little memories of that day and my notes are very scarce: "Nice walk, but nothing interesting happened".
 
-We arrived in Momy in the middle of the afternoon and Anoye a little bit after. We were told about a pilgrims area where we would be able to plant the tent that was "just after the end of the city". What the guy didn't tell us is that there was quite a steep hill first... And that the pilgrim area he mentionned was a stone table and a little bit of grass and that was it.
+{% include splitpic.html leftpath="08/momy" leftcaption="A dubious name for a town" rightpath="08/calamity" rightcaption="Thought for food" %}
 
-Nonetheless, there was enough space to plant the tent, and we even gave birth to our first fire of the trip, and we named it Calamity. We started giving names to our fires since the test hike and this was a tradition that we had to keep. One fire per letter of the alphabet, and with a woman name. The first two were A and Bérangère.
+We arrived in [Momy](https://www.google.fr/maps/place/64350+Momy/@43.3885688,-0.1216245,14z/data=!3m1!4b1!4m5!3m4!1s0xd56246797a0527f:0x406651748139820!8m2!3d43.39578!4d-0.110593?hl=fr) in the middle of the afternoon and [Anoye](https://www.google.fr/maps/place/64350+Anoye/@43.3885688,-0.1216245,14z/data=!4m5!3m4!1s0xd5624a4d9874bbf:0x40665174813ade0!8m2!3d43.3940989!4d-0.13852?hl=fr) a little bit after. We were told about a pilgrims area where we would be able to plant the tent that was "just after the end of the city". What the guy didn't tell us is that there was quite a steep hill first... And that the pilgrim area he mentionned was a stone table and a little bit of grass and that was it.
+
+Nonetheless, there was enough space to plant the tent, and we even gave birth to our first fire of the trip, and we named it Calamity. We started giving names to our fires since the test hike and this was a tradition that we had to keep. One fire per letter of the alphabet, and with a woman name (the first two were Astrid and Bérangère).
+
+{% include pic.html path="08/fields" caption="More fields!" %}

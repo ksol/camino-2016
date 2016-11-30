@@ -1,14 +1,16 @@
 ---
 layout:   post
-title:    "Anoye — Pau (1)"
+title:    "Anoye — Pau"
 category: pau-pyrenees-atlantiques
 date:     2016-09-30
 day:      9
 ---
 
-The towns we went through during the morning, Abère and Gabaston, were empty as well. But after, we started seeing signs on the road detailing the life of historical figures famous in this area. It made for an interesting read and I wish that I took notes about them. We arrived in Morlaas around 11h, in time for an extended coffee break that segued into a lunch break.
+The towns we went through during the morning, [Abère](https://www.google.fr/maps/place/64160+Ab%C3%A8re/@43.3977242,-0.1549811,14z/data=!4m5!3m4!1s0xd563b6c15015a8f:0x8822edc9e08a8a11!8m2!3d43.389308!4d-0.1762104?hl=fr) and [Gabaston](https://www.google.fr/maps/place/64160+Gabaston/@43.3809472,-0.2061043,14z/data=!4m5!3m4!1s0xd563a301568ffbf:0x40665174813a1e0!8m2!3d43.3605861!4d-0.2077693?hl=fr), were empty as well. But after, we started seeing signs on the road detailing the life of historical figures famous in this area. It made for an interesting read and I wish that I took notes about them. We arrived in [Morlaas](https://www.google.fr/maps/place/64160+Morlaas/@43.3354855,-0.3075054,13z/data=!3m1!4b1!4m5!3m4!1s0xd563825957bf68f:0x406651748139720!8m2!3d43.3453032!4d-0.262658?hl=fr) around 11h, in time for an extended coffee break that segued into a lunch break.
 
-A few days earlier, we had decided that would be taking a couple of days of break in Pau. Loïc still had troubles with his leg/ankle, and we figured it couldn't hurt to catch an extended break. The path we were following up until there was not going in Pau but around it, and we were not really excited at the idea of walking half a day in suburbs, so we took a bus to Pau in the middle of the afternoon.
+A few days earlier, we had decided that would be taking a couple of days of break in [Pau](https://www.google.fr/maps/place/Pau/@43.3219626,-0.3786764,13z/data=!3m1!4b1!4m5!3m4!1s0xd564885b45c7ae9:0x4066517481394b0!8m2!3d43.2951057!4d-0.3707886?hl=fr). Loïc still had troubles with his leg/ankle, and we figured it couldn't hurt to catch an extended break. The path we were following up until there was not going in Pau but around it, and we were not really excited at the idea of walking half a day in suburbs, so we took a bus to Pau in the middle of the afternoon.
+
+{% include pic.html path="09/pyrenees" caption="View of the pyrenees from Pau" %}
 
 Once we got there, we wandered a bit then decided to split up: I felt like finding a place to sit and relax while Loïc wanted to visit the city. We both did our things and then regrouped at a bar, did some groceries, and went to a CouchSurfing meeting.
 

@@ -14,8 +14,12 @@ Around 11h, we arrived in Eysus and stopped in a place called "La Salamandre". T
 
 After an extended break there, we started again. We were now getting into the mountains themselves. Not really climbing yet, but the landscapes were getting more impressive hour by hour. Just before a town called Escot, I even got to witness a helicopter landing. Apparently, it was carrying stuff to a higher point in the mountains.
 
+{% include pic.html path="13/helicopter" caption="I could drive that." %}
+
 The walk itself was enjoyable, but required attention: the rain of the past few days had made it slippery, and many paths were narrow and not well lit. But we got to Sarrance, and we took a break at the entrance of the city. 4€ Mojitos ! I took two of them. I was in a good mood, between the landscapes, the walk, and Loïc's ankle was improving.
 
 We met Daniel and François, the pilgrims we met in Auch again. They had planned on stopping at Oloron-Sainte-Marie, so we thought we wouldn't be seeing them after we last met with them in Morlaas. But they were enjoying themselves too much, it seems, and so they wanted to go the Somport now. They also introduced us to two other pilgrims, Pascale and Maryvonne, whom they had met that day or the day earlier.
+
+{% include splitpic.html leftpath="13/cut-mountain" leftcaption="Who took that mountain's side?" rightpath="13/mountains" rightcaption="I like mountains." %}
 
 They were sleeping at the monastery, but it was a bit too expensive for us. However, the man in charge of hosting the pilgrims agreed to let us plant the tent in their backyard for free! There was a mild rain but we found a spot covered by trees. We then took our dinner, and a duck stole a bit of cheese out of Loïc's hand. We called it our fee for the night.
