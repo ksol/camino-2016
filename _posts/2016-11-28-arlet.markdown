@@ -10,7 +10,6 @@ This was the day things started to get serious. We were at an altitude of a litt
 
 {% include splitpic.html leftpath="15/church" leftcaption="Where we started" rightpath="15/cloudy" rightcaption="and where we finished" %}
 
-
 The plan was to get to the [Lac d'Arlet](https://www.google.fr/maps/place/REFUGE+LAC+D'ARLET/@42.8407019,-0.6178187,17z/data=!3m1!4b1!4m5!3m4!1s0xd577569879a71a3:0xcdcb29b26100d722!8m2!3d42.840698!4d-0.61563?hl=fr), and if it wasn't a good place to plant the tent, find a refuge. The beginning of the walk was quite steep and hard. I remember being sweaty and panting most of the time. But before 10h, we were around 1000m. We met two hikers (not pilgrims) who were going to the same place we were. They told us that the refuge was closed, but that there should be a room with beds and blankets accessible. It sounded way better than the tent.
 
 {% include splitpic.html leftpath="15/valley-1" leftcaption="The valley..." rightpath="15/valley-2" rightcaption="... and its inhabitants" %}

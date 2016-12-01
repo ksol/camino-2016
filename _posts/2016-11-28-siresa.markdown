@@ -1,0 +1,37 @@
+---
+layout:   post
+title:    "Lac d'Arlet — Siresa"
+category: pyrenees
+date:     2016-10-07
+day:      16
+---
+
+{% include pic.html path="16/mountains-1" %}
+
+The night was a bit hard, between the cold and the way-too-long nap, but I woke up feeling rested enough. I was a bit sad that I didn't think about looking at the sky: I don't think I was in a better spot during my life, if the sky was clear enough. But well. I peaked outside, and it was still cold, but sunny, and the cloud was gone! We could finally see the lake again.
+
+{% include splitpic.html leftpath="16/lake" rightpath="16/red" %}
+
+We said goodbye to our hiking friends and went our way. Our plan was to stay around this altitude for a while, see a few more peaks, and then only start going downhill again. The paths were good and the sights beautiful, but from time to time there were a strong, cold wind, the kind that make you wish you weren't on a small mountain path...
+
+{% include splitpic.html leftpath="16/red-2" rightpath="16/smokey" rightcaption="Somebody's been smoking." %}
+
+And then, we made a mistake and started going downhill too soon and off track. By the time we realized it, it was a bit late and we weren't feeling like going uphill again, so we took our chances. This could have been pretty stupid: that part of the mountain was steep, with tall grass that prevented you from seeing the shape of the ground, and I'm surprised we got out of it without any trouble, except a scare or two.
+
+{% include splitpic.html leftpath="16/mountains-2" rightpath="16/mountains-4" %}
+{% include pic.html path="16/mountains-3" %}
+{% include splitpic.html leftpath="16/mountains-5" rightpath="16/mountains-6" %}
+{% include splitpic.html leftpath="16/mountains-7" rightpath="16/mountains-8" %}
+
+After what felt like hours of going down, we finally reached the valley, found our path again, and had our lunch break there. At this point, we realized: we were in Spain! We had made it! The rest of the path was demanding, but very enjoyable. At some point I slipped and fell on my butt; I was lucky not to have pulled any muscle, but it was a close call. This was how my legs were letting me know that even though I hadn't hurt myself, I was reaching my limits.
+
+{% include splitpic.html leftpath="16/lunch-break" rightpath="16/path" %}
+{% include pic.html path="16/forward" caption="Can you tell I love mountains?" %}
+
+We reached another valley, which was the [spanish entrance of the pyrenees national park](https://www.google.fr/maps/place/Valles+Occidentales+Natural+Park/@42.8407019,-0.6856678,12z/data=!4m12!1m6!3m5!1s0xd577569879a71a3:0xcdcb29b26100d722!2sREFUGE+LAC+D'ARLET!8m2!3d42.840698!4d-0.61563!3m4!1s0x0:0xd807d003f23da2c5!8m2!3d42.8031469!4d-0.6962585?hl=fr). After that, it was a long road. It was a bit of a letdown, walking on a road again, but we were still in the mountains and the sights made up for it. We stopped for a quick coffee and at somepoint the path went through the mountains again, and quite steep quickly. And that's where I asked too much of my knee and knew I had hurt myself. I took the rest of the path slowly and started walking on the road as soon as I could, but the harm was done.
+
+{% include splitpic.html leftpath="16/mountains-9" rightpath="16/palace" %}
+
+I managed to drag myself to a camping place outside of [Siresa](https://www.google.fr/maps/place/22790+Siresa,+Province+de+Huesca,+Espagne/@42.8407019,-0.6856678,12z/data=!4m12!1m6!3m5!1s0xd577569879a71a3:0xcdcb29b26100d722!2sREFUGE+LAC+D'ARLET!8m2!3d42.840698!4d-0.61563!3m4!1s0xd576e279cf2b1c5:0x243f229ea936746b!8m2!3d42.7561509!4d-0.7541943?hl=fr), where we paid way too much for a spot to plant the tent and have showers, but we didn't have a lot of options. That night I was smart enough to peak outside the tent and yep, the starry night look incredible.
+
+{% include splitpic.html leftpath="16/out" rightpath="16/side" %}
