@@ -3,7 +3,7 @@ layout:   post
 title:    "Sarrance — Borce"
 category: pyrenees
 date:     2016-10-05
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/14/borce.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/14/borce-thumb.jpg"
 day:      14
 ---
 

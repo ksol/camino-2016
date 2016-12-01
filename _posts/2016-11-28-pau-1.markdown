@@ -3,7 +3,7 @@ layout:   post
 title:    "Anoye — Pau"
 category: pau-pyrenees-atlantiques
 date:     2016-09-30
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/09/pyrenees.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/09/pyrenees-thumb.jpg"
 day:      9
 ---
 

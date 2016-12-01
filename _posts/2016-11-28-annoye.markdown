@@ -3,7 +3,7 @@ layout:   post
 title:    "Maubourguet — Anoye"
 category: pau-pyrenees-atlantiques
 date:     2016-09-29
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/08/fields.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/08/fields-thumb.jpg"
 day:      8
 ---
 

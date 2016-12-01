@@ -3,7 +3,7 @@ layout:   post
 title:    "Pau — Oloron-Sainte-Marie"
 category: pyrenees
 date:     2016-10-03
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/12/oloron.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/12/oloron-thumb.jpg"
 day:      12
 ---
 

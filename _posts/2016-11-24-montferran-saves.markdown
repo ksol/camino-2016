@@ -3,7 +3,7 @@ layout:   post
 title:    "Lac de la Bordette — Monferran-Savès"
 category: toulouse-haute-garonne
 date:     2016-09-23
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/02/monferran-saves.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/02/monferran-saves-thumb.jpg"
 day:      2
 ---
 
