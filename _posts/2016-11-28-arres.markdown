@@ -1,0 +1,31 @@
+---
+layout:   post
+title:    "Siresa — Arrés"
+category: camino-aragones
+date:     2016-10-08
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/17/arres-thumb.jpg"
+day:      17
+---
+
+I have to quote Loïc on this one: "the night was cold and full of shivers". It was pretty bad. I had to get up in the middle of the night to fill one of my bottles with hot water to warm up, and even that was not enough. We woke up pretty early because of the cold and we were not really rested, so we started walking right away and hoped it would warm us up.
+
+
+My knee was still hurting, though less than the day before. We reached [Hecho](https://www.google.fr/maps/place/22720+Hecho,+Province+de+Huesca,+Espagne/@42.7389551,-0.7541841,16z/data=!3m1!4b1!4m5!3m4!1s0xd577029670df00f:0x2848e443e456f2ac!8m2!3d42.7383287!4d-0.7499778?hl=fr) in time for a coffee break, and we enjoyed Spain right away: pretty much everything food-related is significantly cheaper than in France. Our goal for the day was to reach [Puente La Reina de Jaca](https://www.google.fr/maps/place/22753+Puente+la+Reina+de+Jaca,+Province+de+Huesca,+Espagne/@42.5577008,-0.78935,17z/data=!3m1!4b1!4m5!3m4!1s0xd5762861b4ad67f:0x61e089c28a8f2184!8m2!3d42.5587073!4d-0.7871532?hl=fr) by the end of the afternoon. To get there in time, we had to follow the road and not the camino: it was not a very enjoyable prospect, but my knee needed stable ground.
+
+{% include splitpic.html leftpath="17/road" rightpath="17/lunch" %}
+
+So I put on some music and we started walking and walking. We took our lunch break in the middle on a riverside, and reached [PRJ](https://www.google.fr/maps/place/22753+Puente+la+Reina+de+Jaca,+Province+de+Huesca,+Espagne/@42.5577008,-0.78935,17z/data=!3m1!4b1!4m5!3m4!1s0xd5762861b4ad67f:0x61e089c28a8f2184!8m2!3d42.5587073!4d-0.7871532?hl=fr) around 16h, some 23Km after Hecho. We were beat, but we noticed that there was nothing in this town except a hotel, a gas station and a bar... So after a break, we went on again and walked to the next town, [Arrés](https://www.google.fr/maps/place/22751+Arr%C3%A9s,+Province+de+Huesca,+Espagne/@42.5551415,-0.827885,18z/data=!3m1!4b1!4m5!3m4!1s0xd576203abc70c75:0x9252aa04acd6e97e!8m2!3d42.5548822!4d-0.826571?hl=fr), which was maybe 5 or 6Km away. We were back on a mountain and therefore my knee reminded me that it was not ok with my doing this, but I pushed through.
+
+{% include splitpic.html leftpath="17/bridge-1" leftcaption="El Puente" rightpath="17/bridge-2" %}
+
+And when we arrived in [Arrés](https://www.google.fr/maps/place/22751+Arr%C3%A9s,+Province+de+Huesca,+Espagne/@42.5551415,-0.827885,18z/data=!3m1!4b1!4m5!3m4!1s0xd576203abc70c75:0x9252aa04acd6e97e!8m2!3d42.5548822!4d-0.826571?hl=fr), things were awesome. I entered into what I thought was a pilgrim's bar to realize it was a donativo albergue. The place was full of life and pilgrims and I was so overwhelmed for the first few minutes ! So many people... Well, about 10 or so. But it felt like a lot after the day we had.
+
+{% include splitpic.html leftpath="17/hill-2" rightpath="17/hill-3" %}
+
+The place was run by Dave and Rose from Minnesota, and among the pilgrims were Peter and Ann (Canada), Jens (Czech), Julio (Spain), Ilay (Israel) who had hurt his knee so we had a common ground, and Pascale and Maryvonne that we had met before. Those would become familiar faces for the coming days and weeks.
+
+{% include splitpic.html leftpath="17/hill-2" rightpath="17/hill-1" %}
+
+The place is donation based, but it is meant only money-wise: people can also donate time by helping with the cooking, setting up the plates, doing the dishes, etc. So once again, it felt like a family dinner, everybody helping for something, and sharing their stories and a drink. After the dinner, Dave showed us the church and the tower of the town, which had been restored a few years before. That "first" day in Spain is one of the highlight of my camino, and same as the night at Guy's, will go down as one the best memories I'll keep of the whole trip.
+
+{% include pic.html path="17/arres" caption="Sunset over Arrés" %}
