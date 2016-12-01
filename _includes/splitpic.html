@@ -7,13 +7,19 @@
     <img src="https://s3.eu-central-1.amazonaws.com/camino2016/pictures/{{include.rightpath}}-thumb.jpg">
   </a>
 
-  <p class="post-image-caption">
-    <span class="post-image-caption-left">
-      {{include.leftcaption}}
-    </span>
+  {% if include.leftcaption or include.rightcaption %}
+    <p class="post-image-caption">
+      {% if include.leftcaption or include.rightcaption %}
+        <span class="post-image-caption-left">
+          {{include.leftcaption}}
+        </span>
+      {% endif %}
 
-    <span class="post-image-caption-right">
-      {{include.rightcaption}}
-    </span>
-  </p>
+      {% if include.rightcaption %}
+        <span class="post-image-caption-right">
+          {{include.rightcaption}}
+        </span>
+      {% endif %}
+    </p>
+  {% endif %}
 </div>
