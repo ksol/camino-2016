@@ -3,6 +3,7 @@ layout:   post
 title:    "Lussan — Auch"
 category: auch-gers
 date:     2016-09-25
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/04/auch.jpg"
 day:      4
 ---
 

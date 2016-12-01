@@ -3,6 +3,7 @@ layout:   post
 title:    "Pau (3)"
 category: pau-pyrenees-atlantiques
 date:     2016-10-02
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/11/pau-2.jpg"
 day:      11
 ---
 

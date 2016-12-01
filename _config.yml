@@ -9,6 +9,12 @@ twitter_username: "ksol"
 github_username:  "ksol"
 instagram_username: "ksol"
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/16/mountains-1.jpg"
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/

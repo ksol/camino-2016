@@ -3,6 +3,7 @@ layout:   post
 title:    "Borce — Lac d'Arlet"
 category: pyrenees
 date:     2016-10-06
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/15/higher-3.jpg"
 day:      15
 ---
 

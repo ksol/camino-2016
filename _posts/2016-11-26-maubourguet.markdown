@@ -3,6 +3,7 @@ layout:   post
 title:    "Monlezun — Maubourguet"
 category: auch-gers
 date:     2016-09-28
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/07/auriebat.jpg"
 day:      7
 ---
 

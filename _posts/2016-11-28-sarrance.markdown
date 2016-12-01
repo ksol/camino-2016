@@ -3,6 +3,7 @@ layout:   post
 title:    "Oloron-Sainte-Marie — Sarrance"
 category: pyrenees
 date:     2016-10-04
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/13/mountains.jpg"
 day:      13
 ---
 

@@ -3,6 +3,7 @@ layout:   post
 title:    "Lac d'Arlet — Siresa"
 category: pyrenees
 date:     2016-10-07
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/16/mountains-1.jpg"
 day:      16
 ---
 

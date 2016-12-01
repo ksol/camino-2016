@@ -3,6 +3,7 @@ layout:   post
 title:    "Toulouse — Lac de la Bordette"
 category: toulouse-haute-garonne
 date:     2016-09-22
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/01/toulouse-parc.jpg"
 day:      1
 ---
 
