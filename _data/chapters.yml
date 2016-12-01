@@ -13,9 +13,9 @@
 - name: Pyrénées
   slug: pyrenees
 
-# - name: Camino Aragones
-#   slug: camino-aragones
-#
+- name: Camino Aragones
+  slug: camino-aragones
+
 # - name: Pamplona ~ Navarra
 #   slug: pamplona-navarra
 #

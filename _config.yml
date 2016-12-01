@@ -13,7 +13,7 @@ instagram_username: "ksol"
 markdown: kramdown
 permalink: /:categories/:title/
 future: true
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 # Pagination
 paginate: 5
