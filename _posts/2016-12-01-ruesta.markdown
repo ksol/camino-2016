@@ -1,0 +1,30 @@
+---
+layout:   post
+title:    "Arrés — Ruesta"
+category: camino-aragones
+date:     2016-10-09
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/18/artieda.jpg"
+day:      18
+---
+
+That morning, I woke up with a hangover. Jens kept filling my glass with red wine over and over! We took a breakfast with everyone and once again it was very friendly. Quite the change compared to our quick, biscuits-powered breakfasts of the earlier weeks.
+
+{% include pic.html path="18/path" caption="Through the fields" %}
+
+We began walking with Ilay and Jens, but lost them after a while, our pace being a bit too exhausting for them, especially Ilay who was hurt. The first stop of the day was a bit far, maybe 20Km away from [Arrés](https://www.google.fr/maps/place/22751+Arr%C3%A9s,+Province+de+Huesca,+Espagne/@42.5551415,-0.827885,18z/data=!3m1!4b1!4m5!3m4!1s0xd576203abc70c75:0x9252aa04acd6e97e!8m2!3d42.5549139!4d-0.8265495?hl=fr). The path was mostly tracks in-between fields and a few hills here and there. Way less grass than what we had in France.
+
+{% include pic.html path="18/artieda" caption="Artieda" %}
+
+We arrived in [Artieda](https://www.google.fr/maps/place/50683+Artieda,+Saragosse,+Espagne/@42.586018,-0.9846172,18z/data=!3m1!4b1!4m5!3m4!1s0xd57592a85240e33:0x4acac2fd1d0915ec!8m2!3d42.586329!4d-0.9836197?hl=fr) and took our lunch break there with Julio, who is a quite fast walker, wakes up early and do long days. We had a "bocadillo" (spanish for sandwich), and were amazed by how big and good it was. When we had to pay, I was surprised how cheap it was as well. I could see myself live in spain and spend my time eating...
+
+The rest of the path was more fields and forests around the end. We saw a few old churches in ruins around [Ruesta](https://www.google.fr/maps/place/50685+Ruesta,+Saragosse,+Espagne/@42.5878545,-1.0774772,17z/data=!3m1!4b1!4m5!3m4!1s0xd57577455c3131d:0x6701d6968ccb15d3!8m2!3d42.5882248!4d-1.0747719?hl=fr), our stop for the day. Pretty much the whole town is deserted and in ruins, in fact. We had beers with Peter & Ann, and while I kept drinking Loïc explored the surroundings and found us a place to sleep.
+
+{% include splitpic.html leftpath="18/ghost-1" rightpath="18/ghost-2" %}
+
+A few minutes outside of Ruesta, down the hill, there was a sort of ghost town with what looked like a school, a playground, a church... I remember the hospitalero of Ruesta telling us about why nobody is there anymore, but he spoke in spanish and I took no notes so it was lost on me.
+
+{% include splitpic.html leftpath="18/ghost-3" rightpath="18/ghost-4" %}
+
+All the same, we made camp under the porch, started a fire (for those following: we called it Dolorès) and had our dinner there. The place was not too spooky, but I wouldn't have gone wandering around at night.
+
+{% include pic.html path="18/dolores" caption="Dolorès" %}
