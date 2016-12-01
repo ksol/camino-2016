@@ -1,0 +1,40 @@
+---
+layout:   post
+title:    "Borce — Lac d'Arlet"
+category: pyrenees
+date:     2016-10-06
+day:      15
+---
+
+This was the day things started to get serious. We were at an altitude of a little bit more than 600m, and by the end of the day we had planned to be around 2000m. We decided the days before not to follow the official route through the [Somport](https://www.google.fr/maps/place/Col+du+Somport/@42.8641716,-0.8522723,10z/data=!3m1!4b1!4m5!3m4!1s0xd57a0250fea2fcf:0xe44f6fa553a71ca4!8m2!3d42.7984753!4d-0.5318276?hl=fr), but to go off track. We wanted to see more moutains, better landscapes, and mostly, we wanted to challenge ourselves.
+
+{% include splitpic.html leftpath="15/church" leftcaption="Where we started" rightpath="15/cloudy" rightcaption="and where we finished" %}
+
+
+The plan was to get to the [Lac d'Arlet](https://www.google.fr/maps/place/REFUGE+LAC+D'ARLET/@42.8407019,-0.6178187,17z/data=!3m1!4b1!4m5!3m4!1s0xd577569879a71a3:0xcdcb29b26100d722!8m2!3d42.840698!4d-0.61563?hl=fr), and if it wasn't a good place to plant the tent, find a refuge. The beginning of the walk was quite steep and hard. I remember being sweaty and panting most of the time. But before 10h, we were around 1000m. We met two hikers (not pilgrims) who were going to the same place we were. They told us that the refuge was closed, but that there should be a room with beds and blankets accessible. It sounded way better than the tent.
+
+{% include splitpic.html leftpath="15/valley-1" leftcaption="The valley..." rightpath="15/valley-2" rightcaption="... and its inhabitants" %}
+
+The next part was a valley. It was going up still but not as much as earlier, and it was quite enjoyable. Loïc was behind but only because he was too busy eating berries all the time. His ankle was not troubling him any more, and my blisters were a distant memory; we felt as good as we could and it was well needed on that day.
+
+{% include splitpic.html leftpath="15/valley-3" leftcaption="Loïc, leading the way" rightpath="15/valley-4" rightcaption="Autumn colors" %}
+
+We took our lunch break right before the end of the valley, and what came next was in the hardest bit of my camino. We had trouble finding the right path and went the wrong way a couple of times. At some point, we just sucked it up and kept going, even though it was the steepest road I had ever climbed. I had to take breaks every 30 seconds to catch my break... I was a bit scared for my knees, too. They had been holding up pretty well until then, but that part was more demanding than anything we'd done until then.
+
+{% include splitpic.html leftpath="15/higher-1" leftcaption="Those colors..." rightpath="15/higher-4" rightcaption="... and those sights..." %}
+
+{% include pic.html path="15/higher-3" caption="Oh hi there." %}
+
+After about half an hour after starting this bit, the slope got a little easier. Still steep but less demanding, and with flat portions here and there. I remember getting quite tired and cold and wanting to take a break, but Loïc was ahead of me and I didn't felt like losing track of him so I kept going. Until after a turn, I noticed and lake and realized we had made it!
+
+{% include pic.html path="15/higher-2" caption="Grass & rocks" %}
+
+I had quite the sense of accomplishment, and it lasted for about ten minutes :) Then I caught my breath and a cloud started to set over the lake and we couldn't see it any longer. We barely had time to enjoy it! The walk before it was beautiful though, even though I was too exhausted to fully enjoy it. The hikers we had met earlier arrived right after us, and as promised the refuge had a winter room that was opened. And so... we started by taking a three-hour nap until 18/19h. It was freaking cold: I remember sleeping under three blankets and still not feeling warm enough.
+
+{% include splitpic.html leftpath="15/two-thousand-1" leftcaption="Around the lake" rightpath="15/two-thousand-2" rightcaption="" %}
+
+Once we managed to wake up from our nap, we ate and spoke with the hikers. One of them was hellbent on sleeping in the tent despite the cold: he took a few blankets with him and left us. I remember thinking of a friend of mine who would do exactly the same: he'll recognize himself when he reads those words :)
+
+{% include splitpic.html leftpath="15/red-1" leftcaption="We really liked those red mountains" rightpath="15/red-3" rightcaption="" %}
+
+{% include pic.html path="15/red-2" caption="Lots of trees too!" %}
