@@ -1,0 +1,20 @@
+---
+layout:   post
+title:    "Ruesta — Sangüesa"
+category: camino-aragones
+date:     2016-10-10
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/19/lunlun.jpg"
+day:      19
+---
+
+We had fell asleep around our campfire and we woke up around 3h freezing. Without the fire, the night was too cold to sleep outside. So we got up, fetched more wood and restarted the fire once again. We stayed up for an hour making sure it would last until morning, and we were almost right: we woke up once again around 6h.
+
+We restarted it once again and took our breakfast there. This was the last time I slept outside of the whole trip: the nights were too cold for my taste and the spanish albergues promised to be between 5 and 10€ per night, something I could afford. The path started up by going up a hill. While I tend to like those portions, it was too much right after waking up and my knees started being painful.
+
+Luckily, it became flatter an hour after starting. One of the dogs of the hospitalero at Ruesta was walking with us. He was playing in the forest and the fields, then came back on the road and it looked like he was making sure we were going the right direction. We kept wondering wether it was normal or not for the dog to be around here, since we were more than an hour away from Ruesta.
+
+{% include pic.html path="19/lunlun" %}
+
+Then, the hospitalero came with its car, took the dog with him and the went to the next town, [Undués de Lerda](https://www.google.fr/maps/place/Undu%C3%A9s+de+Lerda,+50689,+Saragosse,+Espagne/@42.5780109,-1.1888536,13z/data=!3m1!4b1!4m5!3m4!1s0xd5755a2526064e9:0x871c4b6f27cbc3e2!8m2!3d42.5746689!4d-1.1448981?hl=fr) for a coffee, so I suppose this happens frequently. We took a long break there, and kept walking until [Sangüesa](https://www.google.fr/maps/place/31400+Sang%C3%BCesa,+Navarre,+Espagne/@42.5730765,-1.2912667,15z/data=!3m1!4b1!4m5!3m4!1s0xd50aa25888782c9:0x254062e146ead652!8m2!3d42.5744474!4d-1.283083?hl=fr).
+
+We walked around town to visit and buy some food for dinner that night, and were one by one the pilgrims came at the albergue. Loïc and Ilay were the chefs for the night, cooking homemade tortillas. It took longer than expected but everybody agreed the result was worth the wait.
