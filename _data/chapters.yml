@@ -22,9 +22,9 @@
 - name: La Rioja
   slug: la-rioja
 
-# - name: Burgos ~ Manseta
-#   slug: burgos-manseta
-#
+- name: Burgos ~ Manseta
+  slug: burgos-manseta
+
 # - name: Leon
 #   slug: leon
 #
