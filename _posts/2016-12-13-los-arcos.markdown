@@ -1,0 +1,18 @@
+---
+layout:   post
+title:    "Puente la Reina — Los Arcos"
+category: pamplona-navarra
+date:     2016-10-16
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/25/wine.jpg"
+day:      25
+---
+
+We woke up early and fully rested. We took a coffee and started walking towards [Estella](https://www.google.fr/maps/place/31200+Estella,+Navarre,+Espagne/@42.6714277,-2.0547133,14z/data=!3m1!4b1!4m5!3m4!1s0xd5071c5f64631a5:0x41cd3f689131a9b!8m2!3d42.6720868!4d-2.0324707?hl=fr). The route was nice, with old bridges and old towns.. We arrived around 12h30, way earlier than we had planned. So early that after lunch, we felt we could and should walk more. But "more" was 20km away and it would have made for a really long day... But all things considered, challenging as it was, we felt we could do it so we moved on!
+
+{% include splitpic.html leftpath="25/world" leftcaption="You can see the whole world!" rightpath="25/wine" rightcaption="Wine!" %}
+
+Right after Estella, we found the famous wine faucet. We drank a little from it, because free wine! But since we had a lot to walk again, we didn't stay there long. The walk that afternoon was nice: forests, hills and fields! After a little while I started feeling very good and energized so I took off and lost Loïc. I tried waiting for him a few times but he was nowhere to be seen.. So I decided to walk all the way to [Los Arcos](https://www.google.fr/maps/place/31210+Los+Arcos,+Navarre,+Espagne/@42.5699634,-2.1968475,16z/data=!3m1!4b1!4m5!3m4!1s0xd500bad3a5ff591:0xc7c76ec9eee4a03e!8m2!3d42.5684868!4d-2.1916542?hl=fr) and hopefully meet him there.
+
+I arrived around 17:30, earlier than expected, but not early enough for my legs and feet who were starting to let me know they were not happy with walking so much in a day (around 45km). I checked into the albergue first thing, then found Loïc. He had ran into the pilgrim from Hungary that we had met two weeks earlier in France, Zoltan, and decided to spent the night outside with him and his friends, Manu and Stephan. I had dinner with Jens, who was amazed with how much we had walked in the day, then it was time to rest.
+
+{% include splitpic.html leftpath="25/distance" rightpath="25/losarcos" %}

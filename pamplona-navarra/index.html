@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% assign chapter = site.data.chapters[6] %}
+{% assign previous = site.data.chapters[5] %}
+{% assign next = site.data.chapters[7] %}
+{% assign posts = site.posts | where:"category",chapter.slug %}
+
+<section class="post">
+  <div class="post-header post-header-center">
+    <h1 class="chapter-title post-header-title">{{ chapter.name }}</h1>
+  </div>
+  <hr class="chapter-separator">
+</section>
+
+{% for post in posts reversed %}
+  {% include post.html post=post content=post.content %}
+{% endfor %}
+
+<div class="post-footer">
+  {% if previous %}
+    <p class="post-previous">
+      <a href="/{{ previous.slug | prepend: site.baseurl | replace: '//', '/' }}">
+        Previously: {{previous.name}}
+      </a>
+    </p>
+  {% endif %}
+
+  {% if next %}
+    <p class="post-next">
+      <a href="/{{ next.slug | prepend: site.baseurl | replace: '//', '/' }}">
+        Next: {{next.name}}
+      </a>
+    </p>
+  {% endif %}
+</div>

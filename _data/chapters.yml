@@ -16,12 +16,12 @@
 - name: Camino Aragones
   slug: camino-aragones
 
-# - name: Pamplona ~ Navarra
-#   slug: pamplona-navarra
-#
-# - name: La Rioja
-#   slug: la-rioja
-#
+- name: Pamplona ~ Navarra
+  slug: pamplona-navarra
+
+- name: La Rioja
+  slug: la-rioja
+
 # - name: Burgos ~ Manseta
 #   slug: burgos-manseta
 #

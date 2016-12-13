@@ -1,0 +1,18 @@
+---
+layout:   post
+title:    "Pamplona (2)"
+category: pamplona-navarra
+date:     2016-10-14
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/23/legging.jpg"
+day:      23
+---
+
+We were woke up at 6h sharp, german style, after a very good night despit the italian snorer that I nicknamed "Thundernose". The breakfast was very good and more than made up for the sharpness of the waking up. We were out by 8h, which would be perfect had we intended to walk; but we wanted to stick around and it was raining. We wandered around a bit and decided to check into a regular hostel, but not before running a few errands.
+
+{% include pic.html path="23/legging" caption="Morning weather" %}
+
+Loïc tried to find some fabric in order to be warmer when he would be sleeping outside. I had made up my mind about not doing that again unless the temperatures improved so it was not an issue for me. I went at the local decathlon to buy some warmer clothes and a pair of running shoes, just in case.
+
+We met again for lunch, and since we had a bad experience the previous day we decided to go to the deep end of it and set the bar as low as we could: we went at Burger King. We then found our hostel and went there to drop our stuff. I tried to go for a run, but after the burgers it was doomed for failure. We rested there a bit then went out in different bars. We met Jens again, then ran into another group of french people in a bar where a band was playing.
+
+The rest of the night is a bit blurry, due to how much we drank. We went from bar to bar and even to a club: more people were met, shots were drunk, fights were avoided... I managed to walk us back to the hostel without too much trouble.
