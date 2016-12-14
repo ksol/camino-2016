@@ -15,4 +15,4 @@ We had planned a short walk that day (less than 20k) and the path was easy to wa
 
 {% include splitpic.html leftpath="20/sheep-1" leftcaption="The traffic." rightpath="20/sheep-2" %}
 
-When I woke up, I knew that I was falling sick... The [night spent outside in Ruesta]({{ site.baseurl }}{% link _posts/2016-12-01-ruesta.markdown %}) had taken its toll on me, it seemed. Even with a good meal and a few infusions I didn't feel any better so after way too many lousy puns with Loïc and Ilay, it was time to get some rest and hope that I would feel better the next day.
+When I woke up, I knew that I was falling sick... The [night spent outside in Ruesta]({{ site.baseurl }}{% link _posts/2016-10-09-ruesta.markdown %}) had taken its toll on me, it seemed. Even with a good meal and a few infusions I didn't feel any better so after way too many lousy puns with Loïc and Ilay, it was time to get some rest and hope that I would feel better the next day.
