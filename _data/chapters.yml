@@ -25,9 +25,9 @@
 - name: Burgos ~ Meseta
   slug: burgos-meseta
 
-# - name: Leon
-#   slug: leon
-#
+- name: Meseta ~ Leon
+  slug: meseta-leon
+
 # - name: Ponferrada
 #   slug: ponferrada
 #

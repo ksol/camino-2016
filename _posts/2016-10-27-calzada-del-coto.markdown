@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Villarmentero de Campos — Calzada del Coto"
-category: burgos-meseta
+category: meseta-leon
 date:     2016-10-27
 # image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
 day:      36
