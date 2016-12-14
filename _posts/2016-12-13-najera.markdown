@@ -3,20 +3,26 @@ layout:   post
 title:    "Logroño — Nájera"
 category: la-rioja
 date:     2016-10-18
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/25/wine.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/27/fields.jpg"
 day:      27
 ---
 
-I once again woke up quite early. If I remember correctly, Loïc got up way earlier due to badly set alarm and started walking way earlier. After breakfast, I walked with Ilay, Krista and Saula for the first part, mainly with Krista. It was unsettling at first, trying to walk alongside new people with a very different pace than what I was used to, but once we were talking it took my mind off the walking and it was just fine.
+I once again woke up quite early. If I remember correctly, Loïc got up way earlier due to a badly set alarm and started walking way earlier. After breakfast, I walked mainly with Krista for the first part. It was unsettling at first to try tand walk alongside new people with a very different pace than what I was used to, but once we got to talking, my mind was off the walking and I was doing just fine.
 
-We took our coffee break in [Navarrete](https://www.google.fr/maps/place/26370+Navarrete,+La+Rioja,+Espagne/@42.4290673,-2.570181,15z/data=!3m1!4b1!4m5!3m4!1s0xd45513f2e99cb57:0x65b5716e30e2aafb!8m2!3d42.429792!4d-2.5619602?hl=fr), and we were joined by Monica. As soon as her coffee was on the table, Krista moved slightly her bag, which then fell on the table, which then fell off the terrace and everything on it splattered, just what you'd expect from a slow motion sequence in a movie or music video. It was also funny how everybody helped cleaning except Ilay and Krista, the "guilty" ones :)
+{% include pic.html path="27/fields" %}
 
-I stayed with Monica and grabbed another coffee while the others left, then walked with her for the rest of the day. It was very easy talking with her, even though we had little in common, but it made for interesting conversations. We caught up to Ilay and the girls at some point, and we arrived in [Nájera](https://www.google.fr/maps/place/26300+N%C3%A1jera,+La+Rioja,+Espagne/@42.4157725,-2.73912,15z/data=!3m1!4b1!4m5!3m4!1s0xd455c48d3f063d5:0xb7ea89a98a0bb30f!8m2!3d42.4167402!4d-2.7294615?hl=fr) in the middle of the afternoon. I knew Loïc was there so I was stopping here for the day and Monica as well, but Krista and Saula wanted to keep going.
+We took our coffee break in [Navarrete](https://www.google.fr/maps/place/26370+Navarrete,+La+Rioja,+Espagne/@42.4290673,-2.570181,15z/data=!3m1!4b1!4m5!3m4!1s0xd45513f2e99cb57:0x65b5716e30e2aafb!8m2!3d42.429792!4d-2.5619602?hl=fr), and we were joined by Monica. As soon as her coffee was on the table, Ilay or Krista moved slightly a bag, which then fell on the table, which then fell off the terrace and everything on it splattered, just as you'd expect from a slow motion sequence in a movie or music video. It was funny how everybody helped to clean the mess except Ilay and Krista, the "guilty" ones :)
 
-From where I stood it was pretty obvious that Ilay kind of wanted to stop but wanted more to stay with the girls, and Monica got that vibe too; but the girls didn't understand why he wasn't staying with me and Loïc since he had known us longer. It made for a slightly awkward moment, until we said goodbye to them and went to find Loïc and the albergue.
+I stayed with Monica and grabbed another coffee while the others left, then walked with her for the rest of the day. It was very easy talking with her, even though we had little in common, which made for interesting conversations. We caught up to Ilay and the girls at some point, and we arrived in [Nájera](https://www.google.fr/maps/place/26300+N%C3%A1jera,+La+Rioja,+Espagne/@42.4157725,-2.73912,15z/data=!3m1!4b1!4m5!3m4!1s0xd455c48d3f063d5:0xb7ea89a98a0bb30f!8m2!3d42.4167402!4d-2.7294615?hl=fr) in the middle of the afternoon. I knew Loïc was there so I was stopping here for the day and Monica as well, but Krista and Saula wanted to keep going.
 
-Loïc was on the river banks getting drunk on wine with Jose, Christian and James. Jose was already quite drunk and kept telling me over and over that this wine was the best wine we would find because it was local, from Nájera. He left me quite a bad first impression and I stayed away from this group that night because of that.
+{% include pic.html path="27/tower" %}
 
-After, we went into town with Sacha, Macarena, and a few others pilgrims met at the albergue to have dinner, but one by one everybody dropped until it was only Monica and I and we had what looked like a dinner date. It felt funny: since starting the hike, I felt like I was doing "something else", something that is not my usual life; and everytime I was back in a large city, as in Pau or Pamplona, having a night out, it was odd to me to have a "regular life" moment, it even felt irregular. That dinner, as much as I enjoyed it, fell into the same category: as a piece of puzzle coming from another set.
+From where I stood it was pretty obvious that Ilay kind of wanted to stop, but also that he wanted to stay with the girls, and Monica got that vibe too. However the girls didn't understand why he wasn't staying with me and Loïc since he had known us longer and hadn't seen him again yet. It made for a slightly awkward moment, until we said goodbye to them and went to find Loïc and the albergue.
 
-And the feeling stayed even after going to bed, since our beds were put together, kind of like an elderly couple. But it was better to have somebody I know and enjoy there rather than a full stranger or worse, a snorer...
+He had been spending the last couple of hours on the river banks, getting drunk on wine and whisky with Jose, Christian and James. Jose was already quite drunk and kept telling me over and over that this wine was the best wine we would find because it was local, from Nájera. He left me quite a bad first impression and I stayed away from this group that night because of that.
+
+After, we went into town with Sacha, Macarena, and a few others pilgrims met at the albergue to have dinner, but one by one everybody dropped until it was only Monica and I and we had what looked like a dinner date. It felt funny: since starting the hike, I felt like I was doing "something else", something that is not my usual life; and everytime I was back in a city, as in Pau or Pamplona, having a night out, it felt like coming back to my regular life, which then felt irregular. That dinner, as much as I enjoyed it, fell into the same category: it was a piece of a puzzle lost in the wrong set.
+
+And the feeling stayed even after going to bed, since our beds were put together, kind of like an elderly couple. But then again, it was better to have somebody I know and appreciate there rather than a complete stranger, or worse: a snorer...
+
+{% include pic.html path="27/dorms" %}

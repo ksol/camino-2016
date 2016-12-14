@@ -7,12 +7,12 @@ image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/20/sheep-2.
 day:      20
 ---
 
-I woke up feeling low on energy that morning. Breakfast cheered me up and me feel better, but something was still off, so I allowed myself one energy drink, hoping it would give me the boost I required.
+I woke up feeling low on energy that morning. Breakfast cheered me up and made me feel better, but something was still off, so I allowed myself one energy drink, hoping it would give me the boost I needed.
 
 {% include splitpic.html leftpath="20/nature" leftcaption="Sights of the day." rightpath="20/roads" %}
 
-We had planned for a short walk that day, less than 20k, and the path was easy to walk, even with all the... "traffic", so we arrived at [Izco](https://www.google.fr/maps/place/31473+Izco,+Navarre,+Espagne/@42.6569012,-1.569586,11z/data=!4m12!1m6!3m5!1s0xd50a4f55fda0f39:0x5d9f8eca8f02998c!2sIzco!8m2!3d42.6597992!4d-1.4229566!3m4!1s0xd50a463d217a911:0x8b7e8900c5753ef9!8m2!3d42.656604!4d-1.4293599?hl=fr) early in the afternoon. We grabbed a few beers with the other pilgrims at our albergue, and then I was tired again and had to take a nap.
+We had planned a short walk that day (less than 20k) and the path was easy to walk, even with all the... "traffic" (see below), so we arrived at [Izco](https://www.google.fr/maps/place/31473+Izco,+Navarre,+Espagne/@42.6569012,-1.569586,11z/data=!4m12!1m6!3m5!1s0xd50a4f55fda0f39:0x5d9f8eca8f02998c!2sIzco!8m2!3d42.6597992!4d-1.4229566!3m4!1s0xd50a463d217a911:0x8b7e8900c5753ef9!8m2!3d42.656604!4d-1.4293599?hl=fr) early in the afternoon. We grabbed a few beers with the other pilgrims at our albergue, but once I stopped being active I was tired again and had to take a nap.
 
 {% include splitpic.html leftpath="20/sheep-1" leftcaption="The traffic." rightpath="20/sheep-2" %}
 
-When I woke up, I knew that I was falling sick... The night that we spend outside in Ruesta had taken its toll on me, it seemed. Even with a good meal and a few infusions I didn't feel any better so after way too many lousy puns with Loïc and Ilay, it was time to get some rest and hope that I would feel better the next day.
+When I woke up, I knew that I was falling sick... The [night spent outside in Ruesta]({{ site.baseurl }}{% link _posts/2016-12-01-ruesta.markdown %}) had taken its toll on me, it seemed. Even with a good meal and a few infusions I didn't feel any better so after way too many lousy puns with Loïc and Ilay, it was time to get some rest and hope that I would feel better the next day.

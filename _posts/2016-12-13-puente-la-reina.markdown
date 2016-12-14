@@ -7,7 +7,7 @@ image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/24/pamplona
 day:      24
 ---
 
-I woke up a bit hungover, but compared to Loïc I was in perfect shape. The rain had finally stopped so after breakfast I walked around the city and enjoyed it, while Loïc was recovering.
+I woke up a bit hungover, but compared to Loïc I was in great shape. The rain had finally stopped so after breakfast I walked around the city and enjoyed it, while Loïc was resting and slowly made his come back to human form.
 
 {% include splitpic.html leftpath="24/pamplona-1" rightpath="24/pamplona-2" %}
 

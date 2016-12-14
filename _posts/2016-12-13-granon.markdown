@@ -3,16 +3,20 @@ layout:   post
 title:    "Nájera — Grañón"
 category: la-rioja
 date:     2016-10-19
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/25/wine.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/28/sun.jpg"
 day:      28
 ---
 
-I walked with Loïc that morning, Monica having left way earlier, up until the coffee break where we quickly met Ilay and the girls. But I lost fifteen minutes trying to find my phone only to realize I had left it in the one pocket I discarded without checking... When you're dumb, you're dumb.
+I walked with Loïc that morning, Monica having left way earlier, up until the coffee break where we met Ilay and the girls. But I lost fifteen minutes trying to find my phone. By the time I realized I had left it in the one pocket I discarded without checking, they had left again... When you're dumb, you're dumb.
 
-We walked with James a bit. He comes from the US, near Seattle, as most US-based pilgrims I met in this trip it seems. He was very inspiring: he has a friend that he sees maybe once or twice a year, and each year they have a challenge, each time harder than the previous one. That time, it was running a 100km race! James was doing his camino as training for the race, running instead of walking here and there. It made me realize that the difference between he and I his a matter of willpower and doing instead of pushing things further away. I learned a lesson :)
+{% include pic.html path="28/sun" %}
 
-We thought about stopping in the next town for lunch but arrived there too early to our taste, so we pushed until [Grañón](https://www.google.fr/maps/place/26259+Gra%C3%B1%C3%B3n,+La+Rioja,+Espagne/@42.4492518,-3.0313593,16z/data=!3m1!4b1!4m5!3m4!1s0xd457ea32ff3d059:0xd90140acb505b129!8m2!3d42.4491748!4d-3.0269051?hl=fr). There was a good chance that this would be our stop of the day: it was time for Ilay to stop his camino and we wanted to be there for his last night.
+We walked with James a bit, one of the guys who was drinking with Loïc the night the previous day. He comes from the US, near Seattle, as most US-based pilgrims I met in this trip it seems. He was very inspiring: he has a friend that he sees maybe once or twice a year, and each year they have a challenge, each time harder than the previous one.
+
+That time, it was running a 100km race! James was doing his camino as training for the race, running instead of walking here and there. It made me realize that the difference between he and I his a matter of willpower and doing, instead of pushing things down the line. I learned a lesson :)
+
+We thought about stopping in the next town for lunch but arrived there too early to our taste, so we kept walking until we reached [Grañón](https://www.google.fr/maps/place/26259+Gra%C3%B1%C3%B3n,+La+Rioja,+Espagne/@42.4492518,-3.0313593,16z/data=!3m1!4b1!4m5!3m4!1s0xd457ea32ff3d059:0xd90140acb505b129!8m2!3d42.4491748!4d-3.0269051?hl=fr). There was a good chance that this would be our stop of the day: it was time for Ilay to stop his camino and we wanted to be there for his last night.
 
 We ate while waiting for them and they finally arrived. After checking in the donativo albergue closed to the church, we went to the bar in front of it and had many beers in the sun. That afternoon felt really good, with Krista and I staying outside almost until we couldn't find any place where the sun was still hitting.
 
-The dinner that night was cooked by the italians. Once again, it was very friendly, with everybody helping, and some people playing music and singing... Donativos are really something else, mood-wise.
+The dinner that night was cooked by a group of italians, first met the night before in Nájera. Once again, it was very friendly, with everybody helping, and some people playing music and singing... Donativos are really something else, mood-wise.
