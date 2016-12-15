@@ -9,7 +9,7 @@ day:      47
 
 I cannot overstate how good it feels to not have to wake up early. Most of the albergue make you leave before 8h, but since I was in a hotel room I had no such restriction. I took all the time in the world that morning. I still felt a little bit of pain in my leg and I was a little bit sick, so I was set on staying there the whole day and not let myself fall sick once more.
 
-With the irishmen was Jeannie as well. I had met her first right before León, then saw her every now and then. Turns out it was her birthday that morning, so I had a glass of wine right after breakfast! It could only help me feel better and fight my cold, after all.
+With the irishmen was Jenny as well. I had met her first right before León, then saw her every now and then. Turns out it was her birthday that morning, so I had a glass of wine right after breakfast! It could only help me feel better and fight my cold, after all.
 
 At some point I left the hotel and wandered around town until I ran into Christian, and then Saula and Krista. We had finally caught up for the first time since I left them after the Brice drama. It seemed that Krista wasn't feeling much better, at least not that day: she was once again tired of waiting on people and wanted to move on.
 
