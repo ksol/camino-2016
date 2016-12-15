@@ -21,6 +21,10 @@ layout: default
             {% endif %}
           {% endif %}
 
+          {% if post.day %}
+            {{ post.day }}.
+          {% endif %}
+
           {{ post.title }}
         </h4>
       </a>

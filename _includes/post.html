@@ -29,7 +29,7 @@
           </a>
         {% endif %}
 
-        {% if page.previous.url and page.previous.day %}
+        {% if page.day and page.previous.url and page.previous.day %}
           <p class="post-previous">
             <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">
               Previously: {{page.previous.title}} (Day {{page.previous.day}})
@@ -37,7 +37,7 @@
           </p>
         {% endif %}
 
-        {% if page.next.url and page.next.day %}
+        {% if page.day and page.next.url and page.next.day %}
           <p class="post-next">
             <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">
               Next: {{page.next.title}} (Day {{page.next.day}})
