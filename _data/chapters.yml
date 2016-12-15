@@ -31,8 +31,8 @@
 - name: Ponferrada
   slug: ponferrada
 
-# - name: Galicia
-#   slug: galicia
-#
-# - name: Santiago
-#   slug: santiago
+- name: Galicia
+  slug: galicia
+
+- name: Santiago
+  slug: santiago
