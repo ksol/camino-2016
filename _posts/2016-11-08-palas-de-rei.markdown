@@ -3,7 +3,7 @@ layout:   post
 title:    "Barbadelo — Palas de Rei"
 category: galicia
 date:     2016-11-08
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/48/green-thumb.jpg"
 day:      48
 ---
 
