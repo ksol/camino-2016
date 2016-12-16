@@ -3,7 +3,7 @@ layout:   post
 title:    "Arrés — Ruesta"
 category: camino-aragones
 date:     2016-10-09
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/18/artieda.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/18/artieda-thumb.jpg"
 day:      18
 ---
 

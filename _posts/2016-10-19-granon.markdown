@@ -3,7 +3,7 @@ layout:   post
 title:    "Nájera — Grañón"
 category: la-rioja
 date:     2016-10-19
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/28/sun.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/28/sun-thumb.jpg"
 day:      28
 ---
 

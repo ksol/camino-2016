@@ -3,7 +3,7 @@ layout:   post
 title:    "Pamplona — Puente la Reina"
 category: pamplona-navarra
 date:     2016-10-15
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/24/pamplona-3.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/24/pamplona-3-thumb.jpg"
 day:      24
 ---
 

@@ -3,7 +3,7 @@ layout:   post
 title:    "Puente la Reina — Los Arcos"
 category: pamplona-navarra
 date:     2016-10-16
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/25/wine.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/25/wine-thumb.jpg"
 day:      25
 ---
 

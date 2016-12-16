@@ -3,7 +3,7 @@ layout:   post
 title:    "Los Arcos — Logroño"
 category: la-rioja
 date:     2016-10-17
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/26/bridge.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/26/bridge-thumb.jpg"
 day:      26
 ---
 

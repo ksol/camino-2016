@@ -3,7 +3,7 @@ layout:   post
 title:    "Pamplona (2)"
 category: pamplona-navarra
 date:     2016-10-14
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/23/legging.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/23/legging-thumb.jpg"
 day:      23
 ---
 

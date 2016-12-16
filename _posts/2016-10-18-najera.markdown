@@ -3,7 +3,7 @@ layout:   post
 title:    "Logroño — Nájera"
 category: la-rioja
 date:     2016-10-18
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/27/fields.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/27/fields-thumb.jpg"
 day:      27
 ---
 

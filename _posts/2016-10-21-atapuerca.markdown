@@ -3,7 +3,7 @@ layout:   post
 title:    "Tosantos — Atapuerca"
 category: la-rioja
 date:     2016-10-21
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace-thumb.jpg"
 day:      30
 ---
 

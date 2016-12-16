@@ -3,7 +3,7 @@ layout:   post
 title:    "Grañón — Tosantos"
 category: la-rioja
 date:     2016-10-20
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/29/mountain-church.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/29/mountain-church-thumb.jpg"
 day:      29
 ---
 

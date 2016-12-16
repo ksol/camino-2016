@@ -3,7 +3,7 @@ layout:   post
 title:    "Sangüesa — Izco"
 category: camino-aragones
 date:     2016-10-11
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/20/sheep-2.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/20/sheep-2-thumb.jpg"
 day:      20
 ---
 
