@@ -3,12 +3,16 @@ layout:   post
 title:    "Santiago (2)"
 category: santiago
 date:     2016-11-11
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/51/hurdygurdy-thumb.jpg"
 day:      "+1"
 ---
 
 We woke up too early for our own taste. Our bodies were used to waking up soon, so even though we had come home late, we couldn't make it past ten. After having breakfast, we spent the afternoon wandering around, catching up with our pilgrims friend that were just arriving in town, including Saula and Krista. She, Loïc and I booked a hostel; after a nap, we went in town. Loïc wanted to have the free pilgrim dinner at the hotel next to the cathedral, while Krista and I wanted to go at mass. Not that we were believers, but there was something special at the end of the mass that I wanted to witness with my own eyes...
 
+{% include pic.html path="51/church" %}
+
 Once we were out, we ran into Elena, Jem, the croatian sisters, Sacha, and a group of koreans. I haven't mentionned them until now because I had little interactions with them, but there were a lot of koreans on the camino. I was told that there was a strong community of christians in the country so that might be why they were so many of them; but I really didn't expect too see so many of them. Not that had any expectations on that matter, though.
+
+{% include splitpic.html leftpath="51/hurdygurdy" leftcaption="A hurdy-gurdy" rightpath="51/agramola" rightcaption="Hobo at the window!" %}
 
 We all then went bar-hopping and ended up in the same bar as the previous night, with the same band but with more players. One of them was playing the [hurdy-gurdy](https://www.youtube.com/watch?v=ypuaJLHK_LQ), a weird music instrument that I came to know through the tv show [Black Sails](https://www.youtube.com/watch?v=XFTcA4QLHw0). I neved thought I'd be seeing one live in a bar... But here it was. The guys from the previous night, Ollie and Ben were here again and we all had another round of good fun. There was even a weird hobo outside the bar, dancing to the music and making lots of weird sounds. Around two in the morning, I called it a night and went back to my bed.
