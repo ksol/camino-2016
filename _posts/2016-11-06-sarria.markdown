@@ -3,13 +3,15 @@ layout:   post
 title:    "Triacastela — Sarria"
 category: galicia
 date:     2016-11-06
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/46/camino-thumb.jpg"
 day:      46
 ---
 
-I didn't drink enough to make it through the night unbothered, but that's what happen in dorms. The road through the first cafe made it clear that the pain in my leg was still present: I would have to make it a short day if I hoped to feel better. I walked alone that day and ended up in [Sarria](https://www.google.fr/maps/place/27600+Sarria,+Province+de+Lugo,+Espagne/@42.7789815,-7.4202723,15z/data=!3m1!4b1!4m5!3m4!1s0xd3048097fbf82ad:0x9004c74b09000a64!8m2!3d42.7807873!4d-7.4140549?hl=fr) early in the afternoon.
+{% include pic.html path="46/camino" %}
 
-I was on my own that day, Loïc being ahead of me. I booked myself a single room for once: I needed the rest and wanted some privacy. I had gone out only for eating and spent the rest of the day in bed, watching tv shows on my phone. I felt that I might have been falling sick so I took no chance, even though I could hear that the two irishmen I had met earlier were having quite the night downstairs.
+I hadn't enought to drink to make it through the night unbothered... The road through the first cafe made it clear that the pain in my leg was still present: I would have to make it a short day if I hoped to feel better. I walked alone that day and ended up in [Sarria](https://www.google.fr/maps/place/27600+Sarria,+Province+de+Lugo,+Espagne/@42.7789815,-7.4202723,15z/data=!3m1!4b1!4m5!3m4!1s0xd3048097fbf82ad:0x9004c74b09000a64!8m2!3d42.7807873!4d-7.4140549?hl=fr) early in the afternoon.
+
+I was on my own that day, Loïc being ahead of me. I booked myself a single room for once: I needed the rest and wanted some privacy. I had gone out only to eat and spent the rest of the day in bed, watching tv shows on my phone. I also felt that I might have been falling sick so I took no chances, even though I could hear the two irishmen I had met earlier having quite the night downstairs.
 
 <hr>
 

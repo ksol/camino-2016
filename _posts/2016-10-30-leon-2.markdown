@@ -3,7 +3,7 @@ layout:   post
 title:    "León (2)"
 category: meseta-leon
 date:     2016-10-30
-image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/38/leon-6-thumb.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/39/leon-6-thumb.jpg"
 day:      39
 ---
 
