@@ -3,22 +3,32 @@ layout:   post
 title:    "Hontanas — Frómista"
 category: burgos-meseta
 date:     2016-10-25
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/34/arch-1-thumb.jpg"
 day:      34
 ---
 
-I woke up early that day and left before the sun was up. I intended to catch up to Loïc and the girls so I walked at a good pace. I arrived in [Castrojeriz](https://www.google.fr/maps/place/09110+Castrojeriz,+Province+de+Burgos,+Espagne/@42.2897984,-4.1454184,15z/data=!3m1!4b1!4m5!3m4!1s0xd463c8e02d6a64f:0x612e2ea033aad66a!8m2!3d42.2884848!4d-4.1423607?hl=fr) around 9:30, in time for a coffee break with Susan and Laurent.
+I woke up early that day and left before the sun was up. I intended to catch up to Loïc and the girls so I walked at a good pace. I arrived in [Castrojeriz](https://www.google.fr/maps/place/09110+Castrojeriz,+Province+de+Burgos,+Espagne/@42.2897984,-4.1454184,15z/data=!3m1!4b1!4m5!3m4!1s0xd463c8e02d6a64f:0x612e2ea033aad66a!8m2!3d42.2884848!4d-4.1423607?hl=fr) around 9:30. Halfway before the town, I walked under the arch of church/monastery in ruins. I couldn't capture the greatness of the moment with my pictures, but I tried nonetheless
 
-I had met them a few days earlier, in Burgos, and I think everybody who saw them took them for a couple, but they had met on the camino. I don't know what they were or weren't, but they did have a visible connection though. In any case, they were good people to be around, witty and nice.
+{% include pic.html path="34/arch-1" %}
 
-I kept walking fast. There was a big hill/mountain right after Castrojeriz that made me break a sweat, but after five minutes spent on top it was already time to go down! It was a bit of a let down but well. I met Jens and Anna, a friend of his. We talked a bit to catch up, since we hadn't really saw each other for a few days, then I took off again: I had found my zone and intended to stay in it until I had caught up.
+I took a coffee break with Susan and Laurent. I had met them a few days earlier, in Burgos, and I think everybody who saw them took for granted that they were couple, but they had met on the camino. I still don't know what they were or weren't and never asked, since it was none of my business, but they did have a visible connection. In any case, they were good people to be around, witty and nice.
 
-And that happened sooner than I thought. Maybe 30 minutes after having left Jens, I recognized Loïc's shape ahead of me. He was walking with people I hadn't met before, Corry and Adelina. I talked with them a bit but didn't stay long with them: I needed a break while they were still fresh and willing to go on.
+I kept walking at a good pace. There was a big hill/mountain right after Castrojeriz that made me break a sweat, but after five minutes spent on top it was already time to go down! It was a bit of a let down but well. I met Jens and Anna, a friend of his. We talked a bit to catch up, since we hadn't really saw each other for a few days, then I took off again: I had found my zone and intended to stay in it until I had caught up.
 
-Paul joined me on my break and we walk the rest of the day together. He was one of the few pilgrims that could keep up with my pace, so I didn't have to worry about falling behind again. We kind of had a competition between us, each of us challenging the other to go faster and do longer days. We talked about a lot of things that day, including what we thought about the inspirational messages that can be found all over the camino, how frustration tends to be a better motivation than love when it comes to solve problems, among other topics.
+{% include pic.html path="34/meseta" %}
 
-We caught up to Loïc right at the enter of [Frómista](https://www.google.com/maps/place/34440+Frómista,+Palencia,+Spain/@42.26705,-4.4140027,15z/data=!3m1!4b1!4m5!3m4!1s0xd47ccd6fd31298d:0x7c8475e90ae46724!8m2!3d42.2676329!4d-4.4053497?hl=en), and Paul kept going on. I might have been the fastest, but he definitely had more stamina. I was quite beat by the time we got to the town. We waited for Christian to catch up and then we header inside the city.
+And that happened sooner than I thought. Maybe 30 minutes after having left Jens, I recognized Loïc's shape ahead of me. He was walking with people I hadn't met before, Corry and Adelina. I talked with them a bit but it didn't last long: I needed a break while they were still fresh and willing to go on.
 
-We ran a few errands and then ate on the main square with a cat trying to steal our food. It was disturbing because he was really pretty, one of the most beautiful cats I ever saw, but he made the worst sound ever! Corry and Adelina ended up in the city as well, and Loïc and Christian decided to keep going to the next town. I was too tired to follow them, so I stayed in Frómista... So much for catching up!
+Paul joined me on my break and we walked the rest of the day together. He was one of the few pilgrims that could keep up with my pace, so I didn't have to worry about falling behind again. We kind of had a friendly competition between us, each of us pushing the other to go faster and do longer days. We talked about a lot of things that day, including what we thought about the inspirational writings that can be found all over the camino, and how frustration tends to be a better motivator than love when it comes to solve problems, among other topics.
 
-Corry, Adelina and I went to find the albergue then. Little by little a few others pilgrims came, including Jens and Aaron, as well as two faces that were new to me, Louise and Stera. We all drank wine the whole evening and got quite drunk. At some point in the evening there was some tension that ended up turning into an argument; it was quite a sad ending to a very fun night otherwise.
+{% include splitpic.html leftpath="34/door" leftcaption="Hold the door!" rightpath="34/yellow" %}
+
+We caught up to Loïc right at the enter of [Frómista](https://www.google.com/maps/place/34440+Frómista,+Palencia,+Spain/@42.26705,-4.4140027,15z/data=!3m1!4b1!4m5!3m4!1s0xd47ccd6fd31298d:0x7c8475e90ae46724!8m2!3d42.2676329!4d-4.4053497?hl=en). He was taking a break with a few goats. Paul kept going on; I might have been the fastest, but he definitely had more stamina than I, who was quite beat by the time we got to the town. We waited for Christian to catch up and then we header inside the city.
+
+We ran a few errands and then ate on the main square with a cat trying to steal our food. It was disturbing because he was really pretty, one of the most beautiful cats I ever saw, but he made the worst sound ever! Corry and Adelina ended up in the city as well, and Loïc and Christian decided to keep going to the next town. I was too tired to follow them, so I stayed in Frómista... I caught up twice, only to stay behind twice!
+
+Corry, Adelina and I went to find the albergue. Little by little a few others pilgrims came, including Jens and Aaron, as well as two faces that were new to me, Louise and Stera. We all sat around a table, sharing stories, listening to music and drinking wine the whole evening and got quite drunk.
+
+However, at some point in the evening some tension had started to build up; it ended up turning into quite the argument. It made for quite a sad ending to what would have been one of the best nights of my camino otherwise.
+
+{% include pic.html path="34/goat" caption="My new friend" %}

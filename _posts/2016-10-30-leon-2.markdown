@@ -3,18 +3,26 @@ layout:   post
 title:    "León (2)"
 category: meseta-leon
 date:     2016-10-30
-# image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/30/peace.jpg"
+image:    "https://s3.eu-central-1.amazonaws.com/camino2016/pictures/38/leon-6-thumb.jpg"
 day:      39
 ---
 
-Even though we were not walking that day and the hostel was not kick us out by 8, I had to wake up early to fetch my stuff at the other albergue. When I left, the security guard noticed that I didn't have a pass and started asking me about my floor and room. When he saw that I wasn't from here, he told me he was going to call the police because I wasn't allowed in there without checking in. It was way too early for me to be able to talk or react in any other manner than comply so I just apologized over and over. In the end, he only scanned my ID and let me go afterwards.
+{% include pic.html path="39/leon-1" %}
 
-I got back in my albergue just in time to pack my things and enjoy a quick breakfast. We met Hortense, a fellow french pilgrim who was a few hours away from going back to France, her camino being over. It turned out that she wanted to visit Strasbourg with her girlfriend and Loïc might have a room to offer them. There is a saying that goes, "the camino provides", meaning that should you be in need of something, that something will find its way to you. And truth be told, it tends to happen more often than not.
+Even though we were not walking that day and the hostel was not kicking us out by 8, I had to wake up early to fetch my stuff at the other albergue. When I left, the security guard noticed that I didn't have a pass and started asking me about my floor and room. When he saw that I wasn't from here, he told me he was going to call the police because I wasn't allowed in there without checking in. It was way too early for me to be able to talk or react in any other manner than comply so I just apologized over and over. In the end, he only scanned my ID and let me go afterwards.
 
-We dropped the bags at the albergue (without checking in) and went for a tour of the city. It was really nice to have good weather in a city for once. León is a pretty nice city, too. Around the cathedral, I ran into Krista, Saula, and a few others, including Brice. Brice was a friend of Krista and Saula; they had met him in France a while back and he had joined them in Burgos.
+I got back in my albergue just in time to pack my things and enjoy a quick breakfast. We met Hortense, a fellow french pilgrim who was a few hours away from going back to France. She wanted to visit Strasbourg with her girlfriend and Loïc was maybe able to lend them his room. There is a saying that goes, "the camino provides", meaning that should you be in need of something, it find its way to you. Truth be told, it happened more often than not.
 
-Krista was feeling a bit down that morning, partly because she felt she spent too much time waiting on her group while she wanted to visit the city and move on to the next one. I tried to cheered up and offered some support and that's when Brice told me that even though it wasn't up to him, he wasn't happy with me having my arm around her.
+We dropped the bags at the albergue (without checking in) and went for a tour of the city. It was really nice to have a blue skye over our heads while we were in a city, for once, and it made our stay in León better. Around the cathedral, I ran into Krista, Saula, and a few others, including Brice. Brice was a friend of Krista and Saula; they had met him in France a while back and he had joined them in Burgos.
 
-It really took me by surprise and I actually did what he asked: part of me regrets that I sheepishly obeyed, but on the other hand it was probably better not to start a conflict out of pride. I talk about it with Krista (since he had talked to me in French) and all it did was add to her confusion. I was pretty pissed at him for causing all this drama that came out of nowhere, but well. I left the group there and went on my own for a while, pondering wether I should stay one more night in León or not.
+{% include splitpic.html leftpath="39/leon-2" rightpath="39/leon-3" %}
 
-After having lunch with Monica and Amy, I settled on staying one more night and not let one bad experience influence the rest of my day. I had dinner with Loïc, Nora and a few others. Then it was time for them to go back to the albergue, while I had the luxury of staying in Monica's spare bed one more night, and most of all, the luxury of being able to wake up whenever I feel like it on the next day.
+Krista was feeling a bit low that morning, partly because she felt she was spending too much time waiting on her group while she wanted to visit the city and move on to the next one. I tried to cheer her up and offered some support, and that's when Brice came to me and told me that even though it wasn't up to him, he wasn't happy with me having my arm around her.
+
+It really took me by surprise and I actually did what he asked. Part of me regrets that I sheepishly obeyed, but on the other hand it was probably better not to start a conflict out of pride. I talk about it with Krista (since he had talked to me in French) and all it did was add to her confusion. I was pretty pissed at him for causing all this drama for pretty much nothing, but well. I left the group there and went on my own for a while, pondering wether I should stay one more night in León or not.
+
+{% include splitpic.html leftpath="39/leon-4" rightpath="39/leon-5" %}
+
+After having lunch with Monica and Amy, I settled on staying one more night and not let one bad experience taint the rest of my day. I had dinner with Loïc, Nora and a few others, and then it was time for them to go back to the albergue. I had the luxury of staying in Monica's spare bed one more night, and most of all, the luxury of being able to wake up whenever I feel like it on the next day.
+
+{% include pic.html path="39/leon-6" caption="Leon's cathedral" %}
