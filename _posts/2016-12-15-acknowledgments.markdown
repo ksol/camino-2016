@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Acknowledgments"
-date:     2016-12-15 14:00:00
+date:     2016-12-15 13:00:00
 showdate: false
 comments: true
 category: after-the-camino

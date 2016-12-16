@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Afterword"
-date:     2016-12-15 13:00:00
+date:     2016-12-15 14m :00:00
 showdate: false
 comments: true
 category: after-the-camino
