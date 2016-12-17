@@ -7,7 +7,7 @@ comments: true
 category: after-the-camino
 ---
 
-Well, that took longer that I expected. I didn't count, but it's safe than say that I spent a few days on this account of mine. Though I have been been home for about a month now, reading my notes and going through my pictures was a walk down memory lane, one that I enjoyed taking and, I hope, one that you'll enjoy reading.
+Well, that took longer that I expected. I didn't count, but it's safe than say that I spent a few days on this account of mine, half of it consisting of proofreading, editing, and handling the pictures. Though I have been been home for about a month now, reading my notes and going through my pictures was quite a walk down memory lane, one that I enjoyed taking and, I hope, one that you have enjoyed reading.
 
 This is the first time that I write non-fiction, and it proved challenging in many ways. First, there's the issue of memory. With so many events over so many days and weeks, at many points I wondered if I wasn't mixing up memories from two different days, or if I didn't distort what happened. Like I said at the beginning, memories are tricky and may not always be reliable. I'm lucky that I had my notes to guide me through it all: without them, this story would have been left unwritten.
 
