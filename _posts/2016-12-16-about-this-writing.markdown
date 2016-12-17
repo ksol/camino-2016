@@ -31,4 +31,4 @@ The pictures are licensed under [Creative Commons CC BY-NC-SA 4.0](https://creat
 
 The base for the design of this site is the [Travelog jekyll theme](https://github.com/rowanoulton/travelog-theme/) by Rowan Oulton. I further customized it, taking inspiration from what [Matt Gemmell](http://mattgemmell.com) did with his blog.
 
-I wrote the word "coffee" 41 times, beer(s) 24 times and wine 22 times. I expected more, to be honest. I wrote a little more than 20 000 words overall. Under the rules of [National Novel Writing Month](https://en.wikipedia.org/wiki/National_Novel_Writing_Month), it is less than half the length of a novel.
+I wrote the word "coffee" 41 times, beer(s) 24 times and wine 22 times. I expected more, to be honest. From _day one_ to _Homecoming_, I wrote 21162 words; under the rules of [National Novel Writing Month](https://en.wikipedia.org/wiki/National_Novel_Writing_Month), it is less than half the length of a novel.
